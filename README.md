@@ -1,3 +1,3 @@
 # amazonclone
-Amazon landing page
+Amazon landing page\n
 with the help of HTML and CSS
