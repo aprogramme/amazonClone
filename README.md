@@ -6,3 +6,5 @@ with HTML and CSS
 ![Screenshot 2023-10-06 085448](https://github.com/aprogramme/amazonclone/assets/98972400/f8cbce76-c632-41b6-b158-f7d3ebf13bc2)
 <br>
 ![Screenshot 2023-10-08 012635](https://github.com/aprogramme/amazonclone/assets/98972400/3588f8c0-d0e9-448e-b22f-f9ac60042643)
+<br>
+![Screenshot 2023-10-08 012657](https://github.com/aprogramme/amazonclone/assets/98972400/26f4265a-4587-40af-9721-c75e1a0c0e85)
